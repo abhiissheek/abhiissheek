@@ -3,6 +3,12 @@
 I'm a passionate and results-driven **Computer Engineering student** with a keen interest in **Full-Stack Development** and the exciting world of **Artificial Intelligence and Machine Learning**. I thrive on building impactful web applications and delving into creating innovative solutions that solve real-world problems and enhance user experiences.
 
 ---
+### 🤝 Let's Connect!
+
+I'm always open to collaborating on interesting projects, discussing new ideas, or just connecting. Feel free to reach out!
+
+* **Portfolio:** [https://portfolio-nine-taupe-2r3gnhlw0x.vercel.app]
+* **Email:** abhishekchoubey371@gmail.com
 
 
 ## 🌐 Socials:
