@@ -7,7 +7,7 @@ I'm a passionate and results-driven **Computer Engineering student** with a keen
 
 I'm always open to collaborating on interesting projects, discussing new ideas, or just connecting. Feel free to reach out!
 
-* **Portfolio:** [https://portfolio-nine-taupe-2r3gnhlw0x.vercel.app]
+* **Portfolio:** [https://portfolio-new-six-pi.vercel.app/]
 * **Email:** abhishekchoubey371@gmail.com
 
 
